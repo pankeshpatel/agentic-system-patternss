@@ -20,7 +20,7 @@ GROQ_MODEL = "llama-3.3-70b-versatile"
 OPENAI_MODEL_JUDGE = "o3-mini"
 
 
-# request = """Create an analysis of the company: Hach
+# request = """Create an analysis of the company: Concentric Security
 #             Find the:
 #             - Company Description
 #             - Sector / Industry
