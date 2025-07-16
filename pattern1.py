@@ -1,3 +1,9 @@
+"""
+
+This pattern is about  Orchestrator–Worker pattern,
+where a planner sent the same question to multiple agents, and a judge assessed their responses to evaluate agent intelligence.
+"""
+
 import os
 import dotenv
 from openai import OpenAI
