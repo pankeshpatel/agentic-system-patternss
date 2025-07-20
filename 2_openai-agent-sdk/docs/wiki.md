@@ -8,6 +8,8 @@
 
 - trace: https://platform.openai.com/logs?api=traces
 
+- openai pricing: https://platform.openai.com/docs/pricing
+
 ### vibe coding tips
 
 - Good vibes – prompt well – ask for short answers and latest APIs for today’s date
