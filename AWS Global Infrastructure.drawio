@@ -93,7 +93,7 @@
             <mxPoint x="640" y="580" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gN6U44X_LPPJ7nf5AP_a-51" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;exitX=0.03;exitY=0.75;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.08;entryY=0.15;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="gN6U44X_LPPJ7nf5AP_a-19" target="gN6U44X_LPPJ7nf5AP_a-41" edge="1">
+        <mxCell id="gN6U44X_LPPJ7nf5AP_a-51" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;exitX=0.32;exitY=0.95;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.08;entryY=0.15;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="gN6U44X_LPPJ7nf5AP_a-19" target="gN6U44X_LPPJ7nf5AP_a-41" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="120" y="480" as="sourcePoint" />
           </mxGeometry>
@@ -104,6 +104,22 @@
         <mxCell id="gN6U44X_LPPJ7nf5AP_a-53" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="gN6U44X_LPPJ7nf5AP_a-19" target="gN6U44X_LPPJ7nf5AP_a-52" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="170" y="440" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iO0W2zL1I1JfAufCkuy3-3" value="They are out of AZs or Region" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="425" y="420" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iO0W2zL1I1JfAufCkuy3-4" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;" edge="1" target="iO0W2zL1I1JfAufCkuy3-3" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="480" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iO0W2zL1I1JfAufCkuy3-5" value="AWS Outposts" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="80" y="720" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iO0W2zL1I1JfAufCkuy3-6" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;exitX=0.03;exitY=0.675;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" target="iO0W2zL1I1JfAufCkuy3-5" parent="1" source="gN6U44X_LPPJ7nf5AP_a-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="90" y="732" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
       </root>
